@@ -1,6 +1,7 @@
 Square Checkout Demo
 =========================
 
+
 This is a simple example application that utilizes Square's Checkout API. This examples does assume you are familiar with PHP development.
 
 It takes a single payment, declared by the user, and creates an order to use in the Checkout API.
